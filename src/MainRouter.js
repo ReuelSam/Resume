@@ -27,7 +27,7 @@ const MainRouter = () => {
                 <Header />
                 <Routes>
                     <Route path="/" element={<Home />}></Route>
-                    <Route path="/ResumeWebsite/" element={<Home />}></Route>
+                    {/* <Route path="/ResumeWebsite/" element={<Home />}></Route> */}
                     <Route path="/Profile" element={<Profile />}></Route>
                     <Route path="/Education" element={<Education />}></Route>
                     <Route path="/Skills" element={<Skills />}></Route>

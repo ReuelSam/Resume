@@ -1,6 +1,6 @@
 import './CSS/App.css';
 import React, { useEffect, useState} from 'react';
-import {BrowserRouter} from 'react-router-dom';
+import {HashRouter} from 'react-router-dom';
 import MainRouter from './MainRouter';
 import axios from 'axios';
 
@@ -43,9 +43,9 @@ const App = () => {
 	})
 
 	return (
-		<BrowserRouter>
+		<HashRouter>
 			<MainRouter />
-		</BrowserRouter>
+		</HashRouter>
 	)
 }
 	

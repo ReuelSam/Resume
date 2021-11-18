@@ -1,6 +1,7 @@
 {
   "name": "react-front",
   "version": "0.1.0",
+  "homepage": "https://ReuelSam.github.io/Resume",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.0",
