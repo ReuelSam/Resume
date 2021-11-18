@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.2155152e.chunk.css",
+    "main.js": "/Resume/static/js/main.1247a2bc.chunk.js",
+    "main.js.map": "/Resume/static/js/main.1247a2bc.chunk.js.map",
+    "runtime-main.js": "/Resume/static/js/runtime-main.b784b5f9.js",
+    "runtime-main.js.map": "/Resume/static/js/runtime-main.b784b5f9.js.map",
+    "static/js/2.6f01f524.chunk.js": "/Resume/static/js/2.6f01f524.chunk.js",
+    "static/js/2.6f01f524.chunk.js.map": "/Resume/static/js/2.6f01f524.chunk.js.map",
+    "index.html": "/Resume/index.html",
+    "static/css/main.2155152e.chunk.css.map": "/Resume/static/css/main.2155152e.chunk.css.map",
+    "static/js/2.6f01f524.chunk.js.LICENSE.txt": "/Resume/static/js/2.6f01f524.chunk.js.LICENSE.txt",
+    "static/media/Reuel-Header.7a87279c.jpg": "/Resume/static/media/Reuel-Header.7a87279c.jpg",
+    "static/media/Reuel-Profile.2e252df9.jpg": "/Resume/static/media/Reuel-Profile.2e252df9.jpg",
+    "static/media/Reuel_Resume.2added4c.pdf": "/Resume/static/media/Reuel_Resume.2added4c.pdf",
+    "static/media/birla_logo.png": "/Resume/static/media/birla_logo.8dcdbe2e.png",
+    "static/media/ceg_logo.png": "/Resume/static/media/ceg_logo.564ae97e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b784b5f9.js",
+    "static/js/2.6f01f524.chunk.js",
+    "static/css/main.2155152e.chunk.css",
+    "static/js/main.1247a2bc.chunk.js"
+  ]
+}
