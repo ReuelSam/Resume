@@ -1,6 +1,5 @@
 {
   "name": "react-front",
-  "homepage": "https://reuelsam.github.io/Resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
