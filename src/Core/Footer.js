@@ -1,4 +1,4 @@
-import PDF from '../Resources/Reuel_Resume.pdf';
+// import PDF from '../Resources/Reuel_Resume.pdf';
 import Github from '../Links/Github';
 import LinkedIn from '../Links/LinkedIn';
 
@@ -22,7 +22,7 @@ const Footer = () => {
                 <p className="text-sm text-center text-accent_color dark:text-gray-300">&copy; 2021 </p>
     
                 <div className="flex items-center space-x-6">
-                    <a href={PDF} target="_blank" rel="noreferrer" className="text-sm text-accent_color dark:text-gray-300 hover:underline">Resume</a>
+                    <a href="https://drive.google.com/file/d/1M6z_PtncTsJHJ5xWLinO71P7DovVx_rD/view?usp=sharing" target="_blank" rel="noreferrer" className="text-sm text-accent_color dark:text-gray-300 hover:underline">Resume</a>
         
                     <Github />
                     <LinkedIn />

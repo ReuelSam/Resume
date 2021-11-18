@@ -1,7 +1,7 @@
 import {Fragment} from 'react'
 import HeaderImage from '../Images/Reuel-Header.jpg';
 import {Link} from 'react-router-dom';
-import PDF from '../Resources/Reuel_Resume.pdf';
+// import PDF from '../Resources/Reuel_Resume.pdf';
 import Github from '../Links/Github';
 import LinkedIn from '../Links/LinkedIn';
 
@@ -29,7 +29,7 @@ const Header=()=>{
                             Home
                         </Link>
                                                 
-                        <a href={PDF} target="_blank" rel="noreferrer" className="mx-4 inline-block text-2xl p-5 leading-none border rounded text-accent_color border-accent_color hover:border-transparent hover:text-bg_color hover:bg-accent_color mt-4 lg:mt-0">Resume</a>
+                        <a href="https://drive.google.com/file/d/1M6z_PtncTsJHJ5xWLinO71P7DovVx_rD/view?usp=sharing" target="_blank" rel="noreferrer" className="mx-4 inline-block text-2xl p-5 leading-none border rounded text-accent_color border-accent_color hover:border-transparent hover:text-bg_color hover:bg-accent_color mt-4 lg:mt-0">Resume</a>
 
                         {/* <button href="" className="mx-4 inline-block text-2xl px-4 py-2 leading-none border rounded text-white border-blue-300 hover:border-transparent hover:text-yellow-300 hover:bg-gray-800 mt-4 lg:mt-0">
                             <i className="far fa-lightbulb"/>
